@@ -1,11 +1,11 @@
-# 🧠 Smart Ingredient Analyzer
+# 🧠 HealthFriend
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://smart-ingredient-analyzer.vercel.app)
 [![GitHub Stars](https://img.shields.io/github/stars/vipinsao/Smart-Ingredient-Analyzer?style=for-the-badge)](https://github.com/vipinsao/Smart-Ingredient-Analyzer/stargazers)
 
 ## 📊 Problem
 
-Reading food labels is time-consuming and confusing. Most people don't know which ingredients are harmful, beneficial, or potentially allergenic. **Smart Ingredient Analyzer** solves this by instantly analyzing any food label using AI—just snap a photo.
+Reading food labels is time-consuming and confusing. Most people don't know which ingredients are harmful, beneficial, or potentially allergenic. **HealthFriend** solves this by instantly analyzing any food label using AI—just snap a photo.
 
 ---
 
@@ -78,7 +78,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🌐 Live Demo
 
-🔗 **Try it now:** [smart-ingredient-analyzer.vercel.app](https://smart-ingredient-analyzer.vercel.app)
+🔗 **Try it now:** [HealthFriend](https://smart-ingredient-analyzer.vercel.app)
 
 ---
 
@@ -108,15 +108,9 @@ Smart-Ingredient-Analyzer/
 
 ## 👤 Author
 
-**Vipin Chandra Sao**  
-📧 [vipinc.sao@gmail.com](mailto:vipinc.sao@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/vipinsao) | [Portfolio](https://portfolio-latest-y5jf.vercel.app)
-
----
-
-## 📝 License
-
-MIT License - feel free to use this project for learning and building!
+**Mohd Anwaroddin**  
+📧 [anwaroddin27@gmail.com](mailto:anwaroddin27@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohd-anwaroddin-b2895b1bb/) | [Portfolio](https://mohdanwarsportfolio.netlify.app/)
 
 ---
 
