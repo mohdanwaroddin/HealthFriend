@@ -1,7 +1,6 @@
 # 🧠 HealthFriend
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://smart-ingredient-analyzer.vercel.app)
-[![GitHub Stars](https://img.shields.io/github/stars/vipinsao/Smart-Ingredient-Analyzer?style=for-the-badge)](https://github.com/vipinsao/Smart-Ingredient-Analyzer/stargazers)
 
 ## 📊 Problem
 
