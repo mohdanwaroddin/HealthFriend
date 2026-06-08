@@ -58,8 +58,8 @@ Chose Next.js for server-side rendering and optimal performance, TypeScript for 
 
 ```bash
 # Clone the repository
-git clone https://github.com/vipinsao/Smart-Ingredient-Analyzer.git
-cd Smart-Ingredient-Analyzer
+git clone https://github.com/mohdanwaroddin/HealthFriend.git
+cd HealthFriend
 
 # Install dependencies
 npm install
